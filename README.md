@@ -1,4 +1,7 @@
-### Hi there 👋
+### Welcome to my GitHub profile.
+#
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=klugh&theme=dark)](https://git.io/streak-stats)
 
 <!--
 **Klugh/Klugh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
