@@ -8,11 +8,6 @@ My biggest influencers have been Thomas Lin, Martin Fowler, Grady Booch, Bob Mar
 
 
 
-  🔥 Streak 🔥
-:-------------------------:|:-------------------------:
-![![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=klugh&theme=tokyonight_duo&hide_border=true&background=ffffff00)](https://git.io/streak-stats)
-
-
 <!--
 **Klugh/Klugh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
