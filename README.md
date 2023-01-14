@@ -8,9 +8,9 @@ My biggest influencers have been Thomas Lin, Martin Fowler, Grady Booch, Bob Mar
 
 
 
-⚡ Stats ⚡            |  🔥 Streak 🔥
+  🔥 Streak 🔥
 :-------------------------:|:-------------------------:
-![My github stats](https://github-readme-stats.vercel.app/api?username=klugh&show_icons=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=ffffff00) |  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=klugh&theme=tokyonight_duo&hide_border=true&background=ffffff00)](https://git.io/streak-stats)
+![![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=klugh&theme=tokyonight_duo&hide_border=true&background=ffffff00)](https://git.io/streak-stats)
 
 
 <!--
