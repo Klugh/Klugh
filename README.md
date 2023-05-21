@@ -5,8 +5,9 @@ I am a software development leader promoting best practices in Agile, DevOps, an
 I started off as an Apple developer in 1981 with BASIC, later switched to UCSD Pascal, then began my development career with mainframe development in COBOL and Assembler.  In 1999, I jumped on the Microsoft train with VB6, then quickly adopted C# in 2000 with the beta release of .NET, then onto the cloud with Azure, later adding AWS to the mix.
 
 My biggest influencers have been Thomas Lin, Martin Fowler, Grady Booch, Bob Martin, Kent Beck, Ward Cunningham, Gerard Meszaros, and the Gang of Four.
+#
 
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Klugh&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 <!--
 **Klugh/Klugh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
