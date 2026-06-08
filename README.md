@@ -2,7 +2,7 @@
 
 Welcome — I’m Doug Klugh, a software engineering and DevOps leader dedicated to advancing the craft of building high‑quality, maintainable, and evolvable software systems.  I focus on elevating engineering organizations through clean design, predictable delivery, and the disciplined application of Agile, DevOps, and software engineering principles.
 
-I share much of my work through DevLead.io, where I teach the principles, practices, and patterns that enable teams to deliver flexible, testable, and sustainable software.  I also develop and lead training programs on topics ranging from TDD and design principles to component architecture and continuous delivery.
+I share much of my work through [DevLead.io](https://devlead.io/), where I teach the principles, practices, and patterns that enable teams to deliver flexible, testable, and sustainable software.  I also develop and lead training programs on topics ranging from TDD and design principles to component architecture and continuous delivery.
 
 My journey began in 1981 on Apple systems with BASIC and UCSD Pascal, followed by mainframe development in COBOL and Assembler. I moved into Microsoft technologies in 1999 with VB6, adopted C# with the first .NET beta in 2000, and later expanded into cloud engineering across Azure and AWS.
 
